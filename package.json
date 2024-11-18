@@ -57,7 +57,7 @@
     "@compodoc/compodoc": "1.1.26",
     "@nestjs/cli": "10.4.7",
     "@nestjs/schematics": "10.2.3",
-    "@nestjs/testing": "10.4.6",
+    "@nestjs/testing": "10.4.8",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/commit-analyzer": "13.0.0",
     "@semantic-release/git": "10.0.1",
